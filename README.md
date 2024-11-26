@@ -1,10 +1,14 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# Chatify - Chat Application 
+Chatify is chat application build with the power of MERN Stack. 
 
+![login page](./images/loginPage.png)
 
-![login page](./images/snappy_login.png)
+![home page](./images/ChatPage.png)
 
-![home page](./images/snappy.png)
+![SignUp page](./images/SignUp_page.png)
+
+![Chat page](./images/Chat_page.png)
+
 
 ## Installation Guide
 
@@ -17,8 +21,8 @@ Both should be installed and make sure mongodb is running.
 
 #### First Method
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/Vikzz123/CHATIFY
+cd CHATIFY
 ```
 Now rename env files from .env.example to .env
 ```shell
