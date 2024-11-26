@@ -21,8 +21,8 @@ Both should be installed and make sure mongodb is running.
 
 #### First Method
 ```shell
-git clone https://github.com/Vikzz123/CHATIFY
-cd CHATIFY
+git clone https://github.com/Vikzz123/Chatify
+cd Chatify
 ```
 Now rename env files from .env.example to .env
 ```shell
